@@ -1,8 +1,8 @@
-# Chatting-Application
+# Chatting-Application- ChatWave
 
 ## Introduction
 
-The Chatting Application is a Java-based desktop application that enables users to exchange text messages in real-time. It utilizes Java Swing for the graphical user interface (GUI) and Socket Programming with AWT for communication between clients.
+The Chatting Application- ChatWave is a Java-based desktop application that enables users to exchange text messages in real-time. It utilizes Java Swing for the graphical user interface (GUI) and Socket Programming with AWT for communication between clients.
 
 ## Features
 
